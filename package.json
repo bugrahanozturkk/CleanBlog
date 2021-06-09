@@ -4,7 +4,10 @@
   "description": "Clean Blog",
   "main": "app.js",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.11",
     "prettier": "^2.3.0"
   },
   "devDependencies": {
